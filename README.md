@@ -1,2 +1,2 @@
-# Midterm-exam-
-My first github 
+# Midterm-exam
+This is my first github 
